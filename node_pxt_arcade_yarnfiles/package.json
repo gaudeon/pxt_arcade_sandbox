@@ -1,0 +1,11 @@
+{
+  "name": "node_pxt_micropython",
+  "version": "1.0.0",
+  "description": "node module deps for node_pxt_micropython container",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "pxt": "^0.5.1"
+  }
+}
