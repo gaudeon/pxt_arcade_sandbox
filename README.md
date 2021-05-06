@@ -1,4 +1,4 @@
-# pxt_sandbox
+# pxt_arcade_sandbox
 tinkering with containerized pxt applications written in micropython...
 
 # offline app
